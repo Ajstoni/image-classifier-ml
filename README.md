@@ -1,1 +1,1 @@
-# image-classifier-ml
+# Antonie Schimmer
